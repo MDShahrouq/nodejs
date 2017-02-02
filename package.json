@@ -11,5 +11,8 @@
   "dependencies": {
     "mongoose": "^4.8.1",
     "restify": "^4.3.0"
+  },
+    "engines": {
+    "node": "4.1.1"
   }
 }
